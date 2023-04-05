@@ -1,0 +1,3314 @@
+[
+	{
+		"timestamp": "2022-02-01T00:00:00",
+		"openingPrice": 0.004956,
+		"high": 0.005452,
+		"low": 0.004803,
+		"closingPrice": 0.005004,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-02T00:00:00",
+		"openingPrice": 0.005004,
+		"high": 0.005425,
+		"low": 0.00475,
+		"closingPrice": 0.005037,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-03T00:00:00",
+		"openingPrice": 0.005037,
+		"high": 0.005083,
+		"low": 0.004114,
+		"closingPrice": 0.00455,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-04T00:00:00",
+		"openingPrice": 0.00455,
+		"high": 0.005517,
+		"low": 0.004476,
+		"closingPrice": 0.005144,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-05T00:00:00",
+		"openingPrice": 0.005144,
+		"high": 0.005696,
+		"low": 0.005141,
+		"closingPrice": 0.005424,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-06T00:00:00",
+		"openingPrice": 0.005405,
+		"high": 0.005604,
+		"low": 0.004979,
+		"closingPrice": 0.005335,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-07T00:00:00",
+		"openingPrice": 0.005335,
+		"high": 0.006184,
+		"low": 0.005133,
+		"closingPrice": 0.0056,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-08T00:00:00",
+		"openingPrice": 0.0056,
+		"high": 0.005876,
+		"low": 0.005197,
+		"closingPrice": 0.005729,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-09T00:00:00",
+		"openingPrice": 0.005729,
+		"high": 0.006426,
+		"low": 0.005499,
+		"closingPrice": 0.006412,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-10T00:00:00",
+		"openingPrice": 0.006412,
+		"high": 0.007414,
+		"low": 0.006009,
+		"closingPrice": 0.007009,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-11T00:00:00",
+		"openingPrice": 0.007009,
+		"high": 0.008124,
+		"low": 0.006905,
+		"closingPrice": 0.007337,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-12T00:00:00",
+		"openingPrice": 0.007337,
+		"high": 0.007716,
+		"low": 0.006788,
+		"closingPrice": 0.007373,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-13T00:00:00",
+		"openingPrice": 0.007373,
+		"high": 0.007757,
+		"low": 0.007039,
+		"closingPrice": 0.007299,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-14T00:00:00",
+		"openingPrice": 0.007299,
+		"high": 0.007485,
+		"low": 0.006985,
+		"closingPrice": 0.007202,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-15T00:00:00",
+		"openingPrice": 0.0072,
+		"high": 0.007744,
+		"low": 0.007075,
+		"closingPrice": 0.00769,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-16T00:00:00",
+		"openingPrice": 0.00769,
+		"high": 0.01202,
+		"low": 0.007197,
+		"closingPrice": 0.0117,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-02-17T00:00:00",
+		"openingPrice": 0.01188,
+		"high": 0.01334,
+		"low": 0.009807,
+		"closingPrice": 0.01166,
+		"volume": 147852
+	},
+	{
+		"timestamp": "2022-02-18T00:00:00",
+		"openingPrice": 0.01166,
+		"high": 0.01349,
+		"low": 0.0115,
+		"closingPrice": 0.01198,
+		"volume": 193099
+	},
+	{
+		"timestamp": "2022-02-19T00:00:00",
+		"openingPrice": 0.01197,
+		"high": 0.01269,
+		"low": 0.01181,
+		"closingPrice": 0.01241,
+		"volume": 128977
+	},
+	{
+		"timestamp": "2022-02-20T00:00:00",
+		"openingPrice": 0.01241,
+		"high": 0.01273,
+		"low": 0.01094,
+		"closingPrice": 0.01183,
+		"volume": 82431
+	},
+	{
+		"timestamp": "2022-02-21T00:00:00",
+		"openingPrice": 0.01183,
+		"high": 0.01265,
+		"low": 0.01049,
+		"closingPrice": 0.0108,
+		"volume": 78341
+	},
+	{
+		"timestamp": "2022-02-22T00:00:00",
+		"openingPrice": 0.0108,
+		"high": 0.01199,
+		"low": 0.009925,
+		"closingPrice": 0.01117,
+		"volume": 146671
+	},
+	{
+		"timestamp": "2022-02-23T00:00:00",
+		"openingPrice": 0.01117,
+		"high": 0.01372,
+		"low": 0.01081,
+		"closingPrice": 0.01197,
+		"volume": 144251
+	},
+	{
+		"timestamp": "2022-02-24T00:00:00",
+		"openingPrice": 0.01197,
+		"high": 0.01316,
+		"low": 0.009486,
+		"closingPrice": 0.01222,
+		"volume": 167018
+	},
+	{
+		"timestamp": "2022-02-25T00:00:00",
+		"openingPrice": 0.01222,
+		"high": 0.01274,
+		"low": 0.01082,
+		"closingPrice": 0.0124,
+		"volume": 177889
+	},
+	{
+		"timestamp": "2022-02-26T00:00:00",
+		"openingPrice": 0.0124,
+		"high": 0.01264,
+		"low": 0.01184,
+		"closingPrice": 0.01205,
+		"volume": 67357
+	},
+	{
+		"timestamp": "2022-02-27T00:00:00",
+		"openingPrice": 0.01205,
+		"high": 0.01248,
+		"low": 0.01154,
+		"closingPrice": 0.01187,
+		"volume": 41099
+	},
+	{
+		"timestamp": "2022-02-28T00:00:00",
+		"openingPrice": 0.01187,
+		"high": 0.01326,
+		"low": 0.01163,
+		"closingPrice": 0.01251,
+		"volume": 57008
+	},
+	{
+		"timestamp": "2022-03-01T00:00:00",
+		"openingPrice": 0.01251,
+		"high": 0.01347,
+		"low": 0.01251,
+		"closingPrice": 0.01288,
+		"volume": 58933
+	},
+	{
+		"timestamp": "2022-03-02T00:00:00",
+		"openingPrice": 0.01288,
+		"high": 0.01515,
+		"low": 0.01265,
+		"closingPrice": 0.01443,
+		"volume": 77525
+	},
+	{
+		"timestamp": "2022-03-03T00:00:00",
+		"openingPrice": 0.01444,
+		"high": 0.01617,
+		"low": 0.01406,
+		"closingPrice": 0.01566,
+		"volume": 126737
+	},
+	{
+		"timestamp": "2022-03-04T00:00:00",
+		"openingPrice": 0.01566,
+		"high": 0.01707,
+		"low": 0.01493,
+		"closingPrice": 0.01678,
+		"volume": 193116
+	},
+	{
+		"timestamp": "2022-03-05T00:00:00",
+		"openingPrice": 0.01678,
+		"high": 0.01716,
+		"low": 0.01614,
+		"closingPrice": 0.01634,
+		"volume": 226680
+	},
+	{
+		"timestamp": "2022-03-06T00:00:00",
+		"openingPrice": 0.01634,
+		"high": 0.01716,
+		"low": 0.01615,
+		"closingPrice": 0.01623,
+		"volume": 169521
+	},
+	{
+		"timestamp": "2022-03-07T00:00:00",
+		"openingPrice": 0.01623,
+		"high": 0.0167,
+		"low": 0.01462,
+		"closingPrice": 0.01605,
+		"volume": 110008
+	},
+	{
+		"timestamp": "2022-03-08T00:00:00",
+		"openingPrice": 0.01605,
+		"high": 0.0167,
+		"low": 0.01586,
+		"closingPrice": 0.01626,
+		"volume": 84506
+	},
+	{
+		"timestamp": "2022-03-09T00:00:00",
+		"openingPrice": 0.01626,
+		"high": 0.01713,
+		"low": 0.01547,
+		"closingPrice": 0.01626,
+		"volume": 116041
+	},
+	{
+		"timestamp": "2022-03-10T00:00:00",
+		"openingPrice": 0.01626,
+		"high": 0.01635,
+		"low": 0.01353,
+		"closingPrice": 0.01609,
+		"volume": 133973
+	},
+	{
+		"timestamp": "2022-03-11T00:00:00",
+		"openingPrice": 0.01609,
+		"high": 0.01628,
+		"low": 0.01603,
+		"closingPrice": 0.01603,
+		"volume": 64229
+	},
+	{
+		"timestamp": "2022-03-12T00:00:00",
+		"openingPrice": 0.01603,
+		"high": 0.0162,
+		"low": 0.01585,
+		"closingPrice": 0.01588,
+		"volume": 3
+	},
+	{
+		"timestamp": "2022-03-13T00:00:00",
+		"openingPrice": 0.01588,
+		"high": 0.01604,
+		"low": 0.01542,
+		"closingPrice": 0.01544,
+		"volume": 5
+	},
+	{
+		"timestamp": "2022-03-14T00:00:00",
+		"openingPrice": 0.01544,
+		"high": 0.01544,
+		"low": 0.01277,
+		"closingPrice": 0.01358,
+		"volume": 66525
+	},
+	{
+		"timestamp": "2022-03-15T00:00:00",
+		"openingPrice": 0.01358,
+		"high": 0.0139,
+		"low": 0.01326,
+		"closingPrice": 0.01384,
+		"volume": 36768
+	},
+	{
+		"timestamp": "2022-03-16T00:00:00",
+		"openingPrice": 0.01384,
+		"high": 0.01428,
+		"low": 0.01374,
+		"closingPrice": 0.01423,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-03-17T00:00:00",
+		"openingPrice": 0.01423,
+		"high": 0.01423,
+		"low": 0.01423,
+		"closingPrice": 0.01423,
+		"volume": 0
+	},
+	{
+		"timestamp": "2022-03-18T00:00:00",
+		"openingPrice": 0.01423,
+		"high": 0.0148,
+		"low": 0.01381,
+		"closingPrice": 0.01397,
+		"volume": 60
+	},
+	{
+		"timestamp": "2022-03-19T00:00:00",
+		"openingPrice": 0.01397,
+		"high": 0.01498,
+		"low": 0.01395,
+		"closingPrice": 0.01462,
+		"volume": 29239
+	},
+	{
+		"timestamp": "2022-03-20T00:00:00",
+		"openingPrice": 0.01462,
+		"high": 0.01502,
+		"low": 0.01405,
+		"closingPrice": 0.01434,
+		"volume": 27300
+	},
+	{
+		"timestamp": "2022-03-21T00:00:00",
+		"openingPrice": 0.01434,
+		"high": 0.01485,
+		"low": 0.01415,
+		"closingPrice": 0.01456,
+		"volume": 21708
+	},
+	{
+		"timestamp": "2022-03-22T00:00:00",
+		"openingPrice": 0.01456,
+		"high": 0.0157,
+		"low": 0.01446,
+		"closingPrice": 0.01504,
+		"volume": 31032
+	},
+	{
+		"timestamp": "2022-03-23T00:00:00",
+		"openingPrice": 0.01504,
+		"high": 0.01619,
+		"low": 0.01476,
+		"closingPrice": 0.01602,
+		"volume": 36429
+	},
+	{
+		"timestamp": "2022-03-24T00:00:00",
+		"openingPrice": 0.01602,
+		"high": 0.01658,
+		"low": 0.01494,
+		"closingPrice": 0.01573,
+		"volume": 59550
+	},
+	{
+		"timestamp": "2022-03-25T00:00:00",
+		"openingPrice": 0.01573,
+		"high": 0.01583,
+		"low": 0.01418,
+		"closingPrice": 0.0152,
+		"volume": 203734
+	},
+	{
+		"timestamp": "2022-03-26T00:00:00",
+		"openingPrice": 0.0152,
+		"high": 0.01531,
+		"low": 0.01461,
+		"closingPrice": 0.0147,
+		"volume": 100169
+	},
+	{
+		"timestamp": "2022-03-27T00:00:00",
+		"openingPrice": 0.0147,
+		"high": 0.01527,
+		"low": 0.0141,
+		"closingPrice": 0.01507,
+		"volume": 186384
+	},
+	{
+		"timestamp": "2022-03-28T00:00:00",
+		"openingPrice": 0.015,
+		"high": 0.01535,
+		"low": 0.01395,
+		"closingPrice": 0.01439,
+		"volume": 258935
+	},
+	{
+		"timestamp": "2022-03-29T00:00:00",
+		"openingPrice": 0.01439,
+		"high": 0.01523,
+		"low": 0.01411,
+		"closingPrice": 0.01478,
+		"volume": 194673
+	},
+	{
+		"timestamp": "2022-03-30T00:00:00",
+		"openingPrice": 0.01478,
+		"high": 0.01509,
+		"low": 0.01425,
+		"closingPrice": 0.01457,
+		"volume": 157444
+	},
+	{
+		"timestamp": "2022-03-31T00:00:00",
+		"openingPrice": 0.01457,
+		"high": 0.01517,
+		"low": 0.0142,
+		"closingPrice": 0.01446,
+		"volume": 330984
+	},
+	{
+		"timestamp": "2022-04-01T00:00:00",
+		"openingPrice": 0.01455,
+		"high": 0.01482,
+		"low": 0.01401,
+		"closingPrice": 0.01428,
+		"volume": 245336
+	},
+	{
+		"timestamp": "2022-04-02T00:00:00",
+		"openingPrice": 0.01428,
+		"high": 0.01468,
+		"low": 0.01367,
+		"closingPrice": 0.01401,
+		"volume": 165709
+	},
+	{
+		"timestamp": "2022-04-03T00:00:00",
+		"openingPrice": 0.01401,
+		"high": 0.01424,
+		"low": 0.01334,
+		"closingPrice": 0.01373,
+		"volume": 144176
+	},
+	{
+		"timestamp": "2022-04-04T00:00:00",
+		"openingPrice": 0.01373,
+		"high": 0.01384,
+		"low": 0.01261,
+		"closingPrice": 0.0137,
+		"volume": 194260
+	},
+	{
+		"timestamp": "2022-04-05T00:00:00",
+		"openingPrice": 0.0137,
+		"high": 0.01385,
+		"low": 0.01304,
+		"closingPrice": 0.01304,
+		"volume": 85141
+	},
+	{
+		"timestamp": "2022-04-06T00:00:00",
+		"openingPrice": 0.01314,
+		"high": 0.0135,
+		"low": 0.01254,
+		"closingPrice": 0.01254,
+		"volume": 149275
+	},
+	{
+		"timestamp": "2022-04-07T00:00:00",
+		"openingPrice": 0.01254,
+		"high": 0.0154,
+		"low": 0.01231,
+		"closingPrice": 0.01462,
+		"volume": 274945
+	},
+	{
+		"timestamp": "2022-04-08T00:00:00",
+		"openingPrice": 0.01462,
+		"high": 0.01761,
+		"low": 0.01457,
+		"closingPrice": 0.01761,
+		"volume": 481385
+	},
+	{
+		"timestamp": "2022-04-09T00:00:00",
+		"openingPrice": 0.01779,
+		"high": 0.0187,
+		"low": 0.01678,
+		"closingPrice": 0.01862,
+		"volume": 708650
+	},
+	{
+		"timestamp": "2022-04-10T00:00:00",
+		"openingPrice": 0.01862,
+		"high": 0.02014,
+		"low": 0.01858,
+		"closingPrice": 0.01993,
+		"volume": 884446
+	},
+	{
+		"timestamp": "2022-04-11T00:00:00",
+		"openingPrice": 0.01993,
+		"high": 0.02012,
+		"low": 0.01353,
+		"closingPrice": 0.01628,
+		"volume": 1886620
+	},
+	{
+		"timestamp": "2022-04-12T00:00:00",
+		"openingPrice": 0.01628,
+		"high": 0.0173,
+		"low": 0.01524,
+		"closingPrice": 0.0162,
+		"volume": 1173937
+	},
+	{
+		"timestamp": "2022-04-13T00:00:00",
+		"openingPrice": 0.0162,
+		"high": 0.01668,
+		"low": 0.01598,
+		"closingPrice": 0.01618,
+		"volume": 447911
+	},
+	{
+		"timestamp": "2022-04-14T00:00:00",
+		"openingPrice": 0.01618,
+		"high": 0.01655,
+		"low": 0.0155,
+		"closingPrice": 0.01578,
+		"volume": 390334
+	},
+	{
+		"timestamp": "2022-04-15T00:00:00",
+		"openingPrice": 0.01578,
+		"high": 0.0159,
+		"low": 0.01398,
+		"closingPrice": 0.01486,
+		"volume": 562913
+	},
+	{
+		"timestamp": "2022-04-16T00:00:00",
+		"openingPrice": 0.01486,
+		"high": 0.01492,
+		"low": 0.01408,
+		"closingPrice": 0.01433,
+		"volume": 202145
+	},
+	{
+		"timestamp": "2022-04-17T00:00:00",
+		"openingPrice": 0.01433,
+		"high": 0.01438,
+		"low": 0.01363,
+		"closingPrice": 0.01363,
+		"volume": 112081
+	},
+	{
+		"timestamp": "2022-04-18T00:00:00",
+		"openingPrice": 0.01363,
+		"high": 0.01365,
+		"low": 0.01223,
+		"closingPrice": 0.01271,
+		"volume": 477034
+	},
+	{
+		"timestamp": "2022-04-19T00:00:00",
+		"openingPrice": 0.01271,
+		"high": 0.0134,
+		"low": 0.01245,
+		"closingPrice": 0.01288,
+		"volume": 253090
+	},
+	{
+		"timestamp": "2022-04-20T00:00:00",
+		"openingPrice": 0.01288,
+		"high": 0.01299,
+		"low": 0.01185,
+		"closingPrice": 0.01201,
+		"volume": 249949
+	},
+	{
+		"timestamp": "2022-04-21T00:00:00",
+		"openingPrice": 0.01201,
+		"high": 0.01219,
+		"low": 0.01018,
+		"closingPrice": 0.01059,
+		"volume": 400449
+	},
+	{
+		"timestamp": "2022-04-22T00:00:00",
+		"openingPrice": 0.0106,
+		"high": 0.01148,
+		"low": 0.01053,
+		"closingPrice": 0.01079,
+		"volume": 219882
+	},
+	{
+		"timestamp": "2022-04-23T00:00:00",
+		"openingPrice": 0.01079,
+		"high": 0.01124,
+		"low": 0.01033,
+		"closingPrice": 0.01102,
+		"volume": 192462
+	},
+	{
+		"timestamp": "2022-04-24T00:00:00",
+		"openingPrice": 0.01102,
+		"high": 0.01122,
+		"low": 0.01047,
+		"closingPrice": 0.01053,
+		"volume": 130757
+	},
+	{
+		"timestamp": "2022-04-25T00:00:00",
+		"openingPrice": 0.01053,
+		"high": 0.01158,
+		"low": 0.009432,
+		"closingPrice": 0.01142,
+		"volume": 338788
+	},
+	{
+		"timestamp": "2022-04-26T00:00:00",
+		"openingPrice": 0.01142,
+		"high": 0.01148,
+		"low": 0.01005,
+		"closingPrice": 0.01043,
+		"volume": 177769
+	},
+	{
+		"timestamp": "2022-04-27T00:00:00",
+		"openingPrice": 0.01043,
+		"high": 0.01047,
+		"low": 0.009722,
+		"closingPrice": 0.01004,
+		"volume": 151006
+	},
+	{
+		"timestamp": "2022-04-28T00:00:00",
+		"openingPrice": 0.01004,
+		"high": 0.01073,
+		"low": 0.009825,
+		"closingPrice": 0.01058,
+		"volume": 142908
+	},
+	{
+		"timestamp": "2022-04-29T00:00:00",
+		"openingPrice": 0.01058,
+		"high": 0.01061,
+		"low": 0.009097,
+		"closingPrice": 0.009162,
+		"volume": 128410
+	},
+	{
+		"timestamp": "2022-04-30T00:00:00",
+		"openingPrice": 0.009161,
+		"high": 0.00924,
+		"low": 0.007439,
+		"closingPrice": 0.008237,
+		"volume": 151454
+	},
+	{
+		"timestamp": "2022-05-01T00:00:00",
+		"openingPrice": 0.008249,
+		"high": 0.009508,
+		"low": 0.008011,
+		"closingPrice": 0.009209,
+		"volume": 93316
+	},
+	{
+		"timestamp": "2022-05-02T00:00:00",
+		"openingPrice": 0.009208,
+		"high": 0.00943,
+		"low": 0.008508,
+		"closingPrice": 0.008806,
+		"volume": 36004
+	},
+	{
+		"timestamp": "2022-05-03T00:00:00",
+		"openingPrice": 0.008806,
+		"high": 0.008871,
+		"low": 0.008207,
+		"closingPrice": 0.008246,
+		"volume": 39328
+	},
+	{
+		"timestamp": "2022-05-04T00:00:00",
+		"openingPrice": 0.008246,
+		"high": 0.008981,
+		"low": 0.00818,
+		"closingPrice": 0.008896,
+		"volume": 55877
+	},
+	{
+		"timestamp": "2022-05-05T00:00:00",
+		"openingPrice": 0.008896,
+		"high": 0.009277,
+		"low": 0.007963,
+		"closingPrice": 0.008263,
+		"volume": 68453
+	},
+	{
+		"timestamp": "2022-05-06T00:00:00",
+		"openingPrice": 0.008263,
+		"high": 0.008597,
+		"low": 0.007117,
+		"closingPrice": 0.00715,
+		"volume": 91391
+	},
+	{
+		"timestamp": "2022-05-07T00:00:00",
+		"openingPrice": 0.00715,
+		"high": 0.007446,
+		"low": 0.006456,
+		"closingPrice": 0.006463,
+		"volume": 152247
+	},
+	{
+		"timestamp": "2022-05-08T00:00:00",
+		"openingPrice": 0.006467,
+		"high": 0.007143,
+		"low": 0.006078,
+		"closingPrice": 0.00675,
+		"volume": 55979
+	},
+	{
+		"timestamp": "2022-05-09T00:00:00",
+		"openingPrice": 0.00675,
+		"high": 0.006849,
+		"low": 0.005214,
+		"closingPrice": 0.005225,
+		"volume": 82422
+	},
+	{
+		"timestamp": "2022-05-10T00:00:00",
+		"openingPrice": 0.005226,
+		"high": 0.00588,
+		"low": 0.004566,
+		"closingPrice": 0.005113,
+		"volume": 99055
+	},
+	{
+		"timestamp": "2022-05-11T00:00:00",
+		"openingPrice": 0.005113,
+		"high": 0.005577,
+		"low": 0.003546,
+		"closingPrice": 0.003608,
+		"volume": 114184
+	},
+	{
+		"timestamp": "2022-05-12T00:00:00",
+		"openingPrice": 0.003616,
+		"high": 0.0039,
+		"low": 0.002574,
+		"closingPrice": 0.003165,
+		"volume": 89629
+	},
+	{
+		"timestamp": "2022-05-13T00:00:00",
+		"openingPrice": 0.003165,
+		"high": 0.004878,
+		"low": 0.002859,
+		"closingPrice": 0.003686,
+		"volume": 139362
+	},
+	{
+		"timestamp": "2022-05-14T00:00:00",
+		"openingPrice": 0.003685,
+		"high": 0.00383,
+		"low": 0.0031,
+		"closingPrice": 0.003635,
+		"volume": 94369
+	},
+	{
+		"timestamp": "2022-05-15T00:00:00",
+		"openingPrice": 0.003635,
+		"high": 0.003727,
+		"low": 0.003354,
+		"closingPrice": 0.003727,
+		"volume": 45326
+	},
+	{
+		"timestamp": "2022-05-16T00:00:00",
+		"openingPrice": 0.003728,
+		"high": 0.003761,
+		"low": 0.003292,
+		"closingPrice": 0.003435,
+		"volume": 59977
+	},
+	{
+		"timestamp": "2022-05-17T00:00:00",
+		"openingPrice": 0.003435,
+		"high": 0.003938,
+		"low": 0.003435,
+		"closingPrice": 0.0038,
+		"volume": 66176
+	},
+	{
+		"timestamp": "2022-05-18T00:00:00",
+		"openingPrice": 0.003798,
+		"high": 0.004151,
+		"low": 0.003259,
+		"closingPrice": 0.003415,
+		"volume": 74322
+	},
+	{
+		"timestamp": "2022-05-19T00:00:00",
+		"openingPrice": 0.003415,
+		"high": 0.003707,
+		"low": 0.003311,
+		"closingPrice": 0.003687,
+		"volume": 51264
+	},
+	{
+		"timestamp": "2022-05-20T00:00:00",
+		"openingPrice": 0.003687,
+		"high": 0.003732,
+		"low": 0.003463,
+		"closingPrice": 0.00361,
+		"volume": 14987
+	},
+	{
+		"timestamp": "2022-05-21T00:00:00",
+		"openingPrice": 0.00361,
+		"high": 0.00366,
+		"low": 0.003518,
+		"closingPrice": 0.003566,
+		"volume": 22305
+	},
+	{
+		"timestamp": "2022-05-22T00:00:00",
+		"openingPrice": 0.003567,
+		"high": 0.003876,
+		"low": 0.003453,
+		"closingPrice": 0.003599,
+		"volume": 32725
+	},
+	{
+		"timestamp": "2022-05-23T00:00:00",
+		"openingPrice": 0.003599,
+		"high": 0.003859,
+		"low": 0.003471,
+		"closingPrice": 0.003504,
+		"volume": 19727
+	},
+	{
+		"timestamp": "2022-05-24T00:00:00",
+		"openingPrice": 0.003504,
+		"high": 0.003573,
+		"low": 0.003358,
+		"closingPrice": 0.003536,
+		"volume": 12430
+	},
+	{
+		"timestamp": "2022-05-25T00:00:00",
+		"openingPrice": 0.003536,
+		"high": 0.003585,
+		"low": 0.003212,
+		"closingPrice": 0.003303,
+		"volume": 21478
+	},
+	{
+		"timestamp": "2022-05-26T00:00:00",
+		"openingPrice": 0.003305,
+		"high": 0.003605,
+		"low": 0.002985,
+		"closingPrice": 0.002993,
+		"volume": 63213
+	},
+	{
+		"timestamp": "2022-05-27T00:00:00",
+		"openingPrice": 0.002991,
+		"high": 0.003344,
+		"low": 0.002872,
+		"closingPrice": 0.002956,
+		"volume": 65353
+	},
+	{
+		"timestamp": "2022-05-28T00:00:00",
+		"openingPrice": 0.003012,
+		"high": 0.003225,
+		"low": 0.002956,
+		"closingPrice": 0.003075,
+		"volume": 63452
+	},
+	{
+		"timestamp": "2022-05-29T00:00:00",
+		"openingPrice": 0.003075,
+		"high": 0.00316,
+		"low": 0.002999,
+		"closingPrice": 0.003073,
+		"volume": 26250
+	},
+	{
+		"timestamp": "2022-05-30T00:00:00",
+		"openingPrice": 0.003073,
+		"high": 0.003224,
+		"low": 0.003039,
+		"closingPrice": 0.0031,
+		"volume": 14751
+	},
+	{
+		"timestamp": "2022-05-31T00:00:00",
+		"openingPrice": 0.0031,
+		"high": 0.003242,
+		"low": 0.00306,
+		"closingPrice": 0.003126,
+		"volume": 21859
+	},
+	{
+		"timestamp": "2022-06-01T00:00:00",
+		"openingPrice": 0.003126,
+		"high": 0.003324,
+		"low": 0.00304,
+		"closingPrice": 0.003147,
+		"volume": 74572
+	},
+	{
+		"timestamp": "2022-06-02T00:00:00",
+		"openingPrice": 0.003134,
+		"high": 0.004763,
+		"low": 0.00308,
+		"closingPrice": 0.004055,
+		"volume": 152078
+	},
+	{
+		"timestamp": "2022-06-03T00:00:00",
+		"openingPrice": 0.004025,
+		"high": 0.004034,
+		"low": 0.003088,
+		"closingPrice": 0.0032,
+		"volume": 118939
+	},
+	{
+		"timestamp": "2022-06-04T00:00:00",
+		"openingPrice": 0.003199,
+		"high": 0.004021,
+		"low": 0.003012,
+		"closingPrice": 0.003923,
+		"volume": 64816
+	},
+	{
+		"timestamp": "2022-06-05T00:00:00",
+		"openingPrice": 0.003923,
+		"high": 0.004703,
+		"low": 0.003603,
+		"closingPrice": 0.004245,
+		"volume": 64154
+	},
+	{
+		"timestamp": "2022-06-06T00:00:00",
+		"openingPrice": 0.004245,
+		"high": 0.004773,
+		"low": 0.00423,
+		"closingPrice": 0.004634,
+		"volume": 45515
+	},
+	{
+		"timestamp": "2022-06-07T00:00:00",
+		"openingPrice": 0.004634,
+		"high": 0.004866,
+		"low": 0.004363,
+		"closingPrice": 0.004768,
+		"volume": 24892
+	},
+	{
+		"timestamp": "2022-06-08T00:00:00",
+		"openingPrice": 0.004768,
+		"high": 0.005728,
+		"low": 0.004764,
+		"closingPrice": 0.005606,
+		"volume": 50861
+	},
+	{
+		"timestamp": "2022-06-09T00:00:00",
+		"openingPrice": 0.005601,
+		"high": 0.005661,
+		"low": 0.002091,
+		"closingPrice": 0.004638,
+		"volume": 601294
+	},
+	{
+		"timestamp": "2022-06-10T00:00:00",
+		"openingPrice": 0.004724,
+		"high": 0.005144,
+		"low": 0.003405,
+		"closingPrice": 0.004362,
+		"volume": 338751
+	},
+	{
+		"timestamp": "2022-06-11T00:00:00",
+		"openingPrice": 0.004362,
+		"high": 0.004585,
+		"low": 0.003624,
+		"closingPrice": 0.003972,
+		"volume": 98210
+	},
+	{
+		"timestamp": "2022-06-12T00:00:00",
+		"openingPrice": 0.003973,
+		"high": 0.004041,
+		"low": 0.003229,
+		"closingPrice": 0.00351,
+		"volume": 22976
+	},
+	{
+		"timestamp": "2022-06-13T00:00:00",
+		"openingPrice": 0.00351,
+		"high": 0.003521,
+		"low": 0.002672,
+		"closingPrice": 0.003008,
+		"volume": 54757
+	},
+	{
+		"timestamp": "2022-06-14T00:00:00",
+		"openingPrice": 0.003008,
+		"high": 0.003152,
+		"low": 0.002838,
+		"closingPrice": 0.003,
+		"volume": 39391
+	},
+	{
+		"timestamp": "2022-06-15T00:00:00",
+		"openingPrice": 0.003,
+		"high": 0.003316,
+		"low": 0.002627,
+		"closingPrice": 0.003308,
+		"volume": 52226
+	},
+	{
+		"timestamp": "2022-06-16T00:00:00",
+		"openingPrice": 0.003311,
+		"high": 0.003345,
+		"low": 0.002932,
+		"closingPrice": 0.002959,
+		"volume": 37436
+	},
+	{
+		"timestamp": "2022-06-17T00:00:00",
+		"openingPrice": 0.002959,
+		"high": 0.003018,
+		"low": 0.002863,
+		"closingPrice": 0.002989,
+		"volume": 15971
+	},
+	{
+		"timestamp": "2022-06-18T00:00:00",
+		"openingPrice": 0.002989,
+		"high": 0.003001,
+		"low": 0.002199,
+		"closingPrice": 0.002368,
+		"volume": 53717
+	},
+	{
+		"timestamp": "2022-06-19T00:00:00",
+		"openingPrice": 0.002368,
+		"high": 0.002954,
+		"low": 0.00223,
+		"closingPrice": 0.002862,
+		"volume": 65411
+	},
+	{
+		"timestamp": "2022-06-20T00:00:00",
+		"openingPrice": 0.002859,
+		"high": 0.002894,
+		"low": 0.002612,
+		"closingPrice": 0.002799,
+		"volume": 23038
+	},
+	{
+		"timestamp": "2022-06-21T00:00:00",
+		"openingPrice": 0.002799,
+		"high": 0.003398,
+		"low": 0.002718,
+		"closingPrice": 0.003108,
+		"volume": 33266
+	},
+	{
+		"timestamp": "2022-06-22T00:00:00",
+		"openingPrice": 0.003115,
+		"high": 0.003163,
+		"low": 0.002689,
+		"closingPrice": 0.003001,
+		"volume": 63695
+	},
+	{
+		"timestamp": "2022-06-23T00:00:00",
+		"openingPrice": 0.003001,
+		"high": 0.003684,
+		"low": 0.002989,
+		"closingPrice": 0.003565,
+		"volume": 46322
+	},
+	{
+		"timestamp": "2022-06-24T00:00:00",
+		"openingPrice": 0.003568,
+		"high": 0.003676,
+		"low": 0.003188,
+		"closingPrice": 0.003594,
+		"volume": 120522
+	},
+	{
+		"timestamp": "2022-06-25T00:00:00",
+		"openingPrice": 0.003594,
+		"high": 0.003605,
+		"low": 0.003255,
+		"closingPrice": 0.003447,
+		"volume": 37658
+	},
+	{
+		"timestamp": "2022-06-26T00:00:00",
+		"openingPrice": 0.003447,
+		"high": 0.003507,
+		"low": 0.003204,
+		"closingPrice": 0.00321,
+		"volume": 19560
+	},
+	{
+		"timestamp": "2022-06-27T00:00:00",
+		"openingPrice": 0.00321,
+		"high": 0.003372,
+		"low": 0.003034,
+		"closingPrice": 0.00312,
+		"volume": 14414
+	},
+	{
+		"timestamp": "2022-06-28T00:00:00",
+		"openingPrice": 0.00312,
+		"high": 0.003252,
+		"low": 0.002829,
+		"closingPrice": 0.003084,
+		"volume": 52967
+	},
+	{
+		"timestamp": "2022-06-29T00:00:00",
+		"openingPrice": 0.003084,
+		"high": 0.003189,
+		"low": 0.002979,
+		"closingPrice": 0.003021,
+		"volume": 14759
+	},
+	{
+		"timestamp": "2022-06-30T00:00:00",
+		"openingPrice": 0.003021,
+		"high": 0.003054,
+		"low": 0.002537,
+		"closingPrice": 0.002693,
+		"volume": 33801
+	},
+	{
+		"timestamp": "2022-07-01T00:00:00",
+		"openingPrice": 0.002693,
+		"high": 0.002854,
+		"low": 0.00266,
+		"closingPrice": 0.002697,
+		"volume": 23128
+	},
+	{
+		"timestamp": "2022-07-02T00:00:00",
+		"openingPrice": 0.002697,
+		"high": 0.002813,
+		"low": 0.002636,
+		"closingPrice": 0.002806,
+		"volume": 6663
+	},
+	{
+		"timestamp": "2022-07-03T00:00:00",
+		"openingPrice": 0.00281,
+		"high": 0.00281,
+		"low": 0.002639,
+		"closingPrice": 0.002746,
+		"volume": 3070
+	},
+	{
+		"timestamp": "2022-07-04T00:00:00",
+		"openingPrice": 0.002746,
+		"high": 0.002938,
+		"low": 0.002625,
+		"closingPrice": 0.002928,
+		"volume": 4824
+	},
+	{
+		"timestamp": "2022-07-05T00:00:00",
+		"openingPrice": 0.002928,
+		"high": 0.003164,
+		"low": 0.002813,
+		"closingPrice": 0.002961,
+		"volume": 10250
+	},
+	{
+		"timestamp": "2022-07-06T00:00:00",
+		"openingPrice": 0.002961,
+		"high": 0.003072,
+		"low": 0.00288,
+		"closingPrice": 0.003003,
+		"volume": 10001
+	},
+	{
+		"timestamp": "2022-07-07T00:00:00",
+		"openingPrice": 0.003016,
+		"high": 0.003174,
+		"low": 0.002853,
+		"closingPrice": 0.002962,
+		"volume": 34504
+	},
+	{
+		"timestamp": "2022-07-08T00:00:00",
+		"openingPrice": 0.002962,
+		"high": 0.003082,
+		"low": 0.002755,
+		"closingPrice": 0.003053,
+		"volume": 12455
+	},
+	{
+		"timestamp": "2022-07-09T00:00:00",
+		"openingPrice": 0.003053,
+		"high": 0.003057,
+		"low": 0.002917,
+		"closingPrice": 0.003039,
+		"volume": 8400
+	},
+	{
+		"timestamp": "2022-07-10T00:00:00",
+		"openingPrice": 0.003039,
+		"high": 0.003092,
+		"low": 0.002886,
+		"closingPrice": 0.002939,
+		"volume": 17100
+	},
+	{
+		"timestamp": "2022-07-11T00:00:00",
+		"openingPrice": 0.002939,
+		"high": 0.003045,
+		"low": 0.002797,
+		"closingPrice": 0.002879,
+		"volume": 14174
+	},
+	{
+		"timestamp": "2022-07-12T00:00:00",
+		"openingPrice": 0.002878,
+		"high": 0.002951,
+		"low": 0.002742,
+		"closingPrice": 0.002764,
+		"volume": 19655
+	},
+	{
+		"timestamp": "2022-07-13T00:00:00",
+		"openingPrice": 0.002764,
+		"high": 0.003049,
+		"low": 0.002585,
+		"closingPrice": 0.003027,
+		"volume": 18235
+	},
+	{
+		"timestamp": "2022-07-14T00:00:00",
+		"openingPrice": 0.003027,
+		"high": 0.003086,
+		"low": 0.002853,
+		"closingPrice": 0.003052,
+		"volume": 26475
+	},
+	{
+		"timestamp": "2022-07-15T00:00:00",
+		"openingPrice": 0.003053,
+		"high": 0.003066,
+		"low": 0.002817,
+		"closingPrice": 0.00296,
+		"volume": 30239
+	},
+	{
+		"timestamp": "2022-07-16T00:00:00",
+		"openingPrice": 0.00296,
+		"high": 0.00308,
+		"low": 0.002816,
+		"closingPrice": 0.00296,
+		"volume": 29468
+	},
+	{
+		"timestamp": "2022-07-17T00:00:00",
+		"openingPrice": 0.00296,
+		"high": 0.00317,
+		"low": 0.002834,
+		"closingPrice": 0.002911,
+		"volume": 14620
+	},
+	{
+		"timestamp": "2022-07-18T00:00:00",
+		"openingPrice": 0.002911,
+		"high": 0.003141,
+		"low": 0.002837,
+		"closingPrice": 0.003123,
+		"volume": 53222
+	},
+	{
+		"timestamp": "2022-07-19T00:00:00",
+		"openingPrice": 0.003122,
+		"high": 0.00318,
+		"low": 0.002919,
+		"closingPrice": 0.003097,
+		"volume": 24718
+	},
+	{
+		"timestamp": "2022-07-20T00:00:00",
+		"openingPrice": 0.003097,
+		"high": 0.003254,
+		"low": 0.002944,
+		"closingPrice": 0.003064,
+		"volume": 37447
+	},
+	{
+		"timestamp": "2022-07-21T00:00:00",
+		"openingPrice": 0.003064,
+		"high": 0.003288,
+		"low": 0.002984,
+		"closingPrice": 0.003243,
+		"volume": 22984
+	},
+	{
+		"timestamp": "2022-07-22T00:00:00",
+		"openingPrice": 0.003243,
+		"high": 0.00332,
+		"low": 0.003034,
+		"closingPrice": 0.003046,
+		"volume": 20260
+	},
+	{
+		"timestamp": "2022-07-23T00:00:00",
+		"openingPrice": 0.003046,
+		"high": 0.003226,
+		"low": 0.003034,
+		"closingPrice": 0.003144,
+		"volume": 10734
+	},
+	{
+		"timestamp": "2022-07-24T00:00:00",
+		"openingPrice": 0.003144,
+		"high": 0.003235,
+		"low": 0.003025,
+		"closingPrice": 0.003164,
+		"volume": 8858
+	},
+	{
+		"timestamp": "2022-07-25T00:00:00",
+		"openingPrice": 0.003164,
+		"high": 0.003242,
+		"low": 0.002973,
+		"closingPrice": 0.003005,
+		"volume": 47155
+	},
+	{
+		"timestamp": "2022-07-26T00:00:00",
+		"openingPrice": 0.003005,
+		"high": 0.003077,
+		"low": 0.002863,
+		"closingPrice": 0.003076,
+		"volume": 34636
+	},
+	{
+		"timestamp": "2022-07-27T00:00:00",
+		"openingPrice": 0.003076,
+		"high": 0.003428,
+		"low": 0.002927,
+		"closingPrice": 0.003359,
+		"volume": 56410
+	},
+	{
+		"timestamp": "2022-07-28T00:00:00",
+		"openingPrice": 0.003359,
+		"high": 0.003529,
+		"low": 0.003092,
+		"closingPrice": 0.003452,
+		"volume": 168030
+	},
+	{
+		"timestamp": "2022-07-29T00:00:00",
+		"openingPrice": 0.003452,
+		"high": 0.003516,
+		"low": 0.003295,
+		"closingPrice": 0.003419,
+		"volume": 34440
+	},
+	{
+		"timestamp": "2022-07-30T00:00:00",
+		"openingPrice": 0.003419,
+		"high": 0.003489,
+		"low": 0.003216,
+		"closingPrice": 0.003383,
+		"volume": 111654
+	},
+	{
+		"timestamp": "2022-07-31T00:00:00",
+		"openingPrice": 0.003388,
+		"high": 0.003464,
+		"low": 0.003186,
+		"closingPrice": 0.003342,
+		"volume": 97158
+	},
+	{
+		"timestamp": "2022-08-01T00:00:00",
+		"openingPrice": 0.003342,
+		"high": 0.003421,
+		"low": 0.002955,
+		"closingPrice": 0.00315,
+		"volume": 183049
+	},
+	{
+		"timestamp": "2022-08-02T00:00:00",
+		"openingPrice": 0.00315,
+		"high": 0.003619,
+		"low": 0.003055,
+		"closingPrice": 0.003165,
+		"volume": 188563
+	},
+	{
+		"timestamp": "2022-08-03T00:00:00",
+		"openingPrice": 0.003165,
+		"high": 0.003255,
+		"low": 0.003044,
+		"closingPrice": 0.003139,
+		"volume": 28456
+	},
+	{
+		"timestamp": "2022-08-04T00:00:00",
+		"openingPrice": 0.00314,
+		"high": 0.003187,
+		"low": 0.002991,
+		"closingPrice": 0.003091,
+		"volume": 11789
+	},
+	{
+		"timestamp": "2022-08-05T00:00:00",
+		"openingPrice": 0.003091,
+		"high": 0.003149,
+		"low": 0.002892,
+		"closingPrice": 0.003066,
+		"volume": 84040
+	},
+	{
+		"timestamp": "2022-08-06T00:00:00",
+		"openingPrice": 0.003065,
+		"high": 0.003121,
+		"low": 0.002898,
+		"closingPrice": 0.002983,
+		"volume": 36415
+	},
+	{
+		"timestamp": "2022-08-07T00:00:00",
+		"openingPrice": 0.002984,
+		"high": 0.003016,
+		"low": 0.002888,
+		"closingPrice": 0.00289,
+		"volume": 10328
+	},
+	{
+		"timestamp": "2022-08-08T00:00:00",
+		"openingPrice": 0.00289,
+		"high": 0.002993,
+		"low": 0.002751,
+		"closingPrice": 0.002824,
+		"volume": 34726
+	},
+	{
+		"timestamp": "2022-08-09T00:00:00",
+		"openingPrice": 0.002824,
+		"high": 0.003011,
+		"low": 0.002504,
+		"closingPrice": 0.002817,
+		"volume": 80925
+	},
+	{
+		"timestamp": "2022-08-10T00:00:00",
+		"openingPrice": 0.002817,
+		"high": 0.002944,
+		"low": 0.002711,
+		"closingPrice": 0.002803,
+		"volume": 49366
+	},
+	{
+		"timestamp": "2022-08-11T00:00:00",
+		"openingPrice": 0.002803,
+		"high": 0.002871,
+		"low": 0.002723,
+		"closingPrice": 0.002769,
+		"volume": 60187
+	},
+	{
+		"timestamp": "2022-08-12T00:00:00",
+		"openingPrice": 0.002769,
+		"high": 0.003052,
+		"low": 0.00275,
+		"closingPrice": 0.002948,
+		"volume": 58224
+	},
+	{
+		"timestamp": "2022-08-13T00:00:00",
+		"openingPrice": 0.002949,
+		"high": 0.003211,
+		"low": 0.002944,
+		"closingPrice": 0.003159,
+		"volume": 53383
+	},
+	{
+		"timestamp": "2022-08-14T00:00:00",
+		"openingPrice": 0.003159,
+		"high": 0.003208,
+		"low": 0.002979,
+		"closingPrice": 0.003153,
+		"volume": 24651
+	},
+	{
+		"timestamp": "2022-08-15T00:00:00",
+		"openingPrice": 0.003153,
+		"high": 0.003183,
+		"low": 0.002976,
+		"closingPrice": 0.003078,
+		"volume": 9978
+	},
+	{
+		"timestamp": "2022-08-16T00:00:00",
+		"openingPrice": 0.003078,
+		"high": 0.003239,
+		"low": 0.002961,
+		"closingPrice": 0.003166,
+		"volume": 25737
+	},
+	{
+		"timestamp": "2022-08-17T00:00:00",
+		"openingPrice": 0.003166,
+		"high": 0.003766,
+		"low": 0.002748,
+		"closingPrice": 0.002849,
+		"volume": 144767
+	},
+	{
+		"timestamp": "2022-08-18T00:00:00",
+		"openingPrice": 0.002849,
+		"high": 0.003164,
+		"low": 0.002843,
+		"closingPrice": 0.003037,
+		"volume": 24731
+	},
+	{
+		"timestamp": "2022-08-19T00:00:00",
+		"openingPrice": 0.00304,
+		"high": 0.003041,
+		"low": 0.002782,
+		"closingPrice": 0.002794,
+		"volume": 28895
+	},
+	{
+		"timestamp": "2022-08-20T00:00:00",
+		"openingPrice": 0.002793,
+		"high": 0.002955,
+		"low": 0.002779,
+		"closingPrice": 0.002929,
+		"volume": 8207
+	},
+	{
+		"timestamp": "2022-08-21T00:00:00",
+		"openingPrice": 0.002929,
+		"high": 0.002945,
+		"low": 0.002791,
+		"closingPrice": 0.002871,
+		"volume": 3420
+	},
+	{
+		"timestamp": "2022-08-22T00:00:00",
+		"openingPrice": 0.002872,
+		"high": 0.002873,
+		"low": 0.002721,
+		"closingPrice": 0.002797,
+		"volume": 2857
+	},
+	{
+		"timestamp": "2022-08-23T00:00:00",
+		"openingPrice": 0.002796,
+		"high": 0.002901,
+		"low": 0.002627,
+		"closingPrice": 0.002823,
+		"volume": 9699
+	},
+	{
+		"timestamp": "2022-08-24T00:00:00",
+		"openingPrice": 0.002819,
+		"high": 0.002834,
+		"low": 0.002624,
+		"closingPrice": 0.002784,
+		"volume": 5601
+	},
+	{
+		"timestamp": "2022-08-25T00:00:00",
+		"openingPrice": 0.002784,
+		"high": 0.002791,
+		"low": 0.0027,
+		"closingPrice": 0.002752,
+		"volume": 2034
+	},
+	{
+		"timestamp": "2022-08-26T00:00:00",
+		"openingPrice": 0.002752,
+		"high": 0.00281,
+		"low": 0.002638,
+		"closingPrice": 0.002638,
+		"volume": 3537
+	},
+	{
+		"timestamp": "2022-08-27T00:00:00",
+		"openingPrice": 0.002638,
+		"high": 0.002725,
+		"low": 0.00256,
+		"closingPrice": 0.002672,
+		"volume": 6400
+	},
+	{
+		"timestamp": "2022-08-28T00:00:00",
+		"openingPrice": 0.002671,
+		"high": 0.002769,
+		"low": 0.002608,
+		"closingPrice": 0.002608,
+		"volume": 3153
+	},
+	{
+		"timestamp": "2022-08-29T00:00:00",
+		"openingPrice": 0.002608,
+		"high": 0.002668,
+		"low": 0.002487,
+		"closingPrice": 0.002566,
+		"volume": 14622
+	},
+	{
+		"timestamp": "2022-08-30T00:00:00",
+		"openingPrice": 0.002566,
+		"high": 0.002659,
+		"low": 0.002426,
+		"closingPrice": 0.002565,
+		"volume": 11276
+	},
+	{
+		"timestamp": "2022-08-31T00:00:00",
+		"openingPrice": 0.002565,
+		"high": 0.002723,
+		"low": 0.002552,
+		"closingPrice": 0.002705,
+		"volume": 16763
+	},
+	{
+		"timestamp": "2022-09-01T00:00:00",
+		"openingPrice": 0.002705,
+		"high": 0.002745,
+		"low": 0.002653,
+		"closingPrice": 0.002743,
+		"volume": 14622
+	},
+	{
+		"timestamp": "2022-09-02T00:00:00",
+		"openingPrice": 0.002743,
+		"high": 0.002746,
+		"low": 0.002571,
+		"closingPrice": 0.0026,
+		"volume": 9866
+	},
+	{
+		"timestamp": "2022-09-03T00:00:00",
+		"openingPrice": 0.0026,
+		"high": 0.002669,
+		"low": 0.002565,
+		"closingPrice": 0.002573,
+		"volume": 4797
+	},
+	{
+		"timestamp": "2022-09-04T00:00:00",
+		"openingPrice": 0.002573,
+		"high": 0.002656,
+		"low": 0.002485,
+		"closingPrice": 0.002601,
+		"volume": 14694
+	},
+	{
+		"timestamp": "2022-09-05T00:00:00",
+		"openingPrice": 0.002601,
+		"high": 0.002617,
+		"low": 0.002473,
+		"closingPrice": 0.002557,
+		"volume": 3013
+	},
+	{
+		"timestamp": "2022-09-06T00:00:00",
+		"openingPrice": 0.002557,
+		"high": 0.002611,
+		"low": 0.002122,
+		"closingPrice": 0.00243,
+		"volume": 96607
+	},
+	{
+		"timestamp": "2022-09-07T00:00:00",
+		"openingPrice": 0.00243,
+		"high": 0.002585,
+		"low": 0.002393,
+		"closingPrice": 0.002494,
+		"volume": 24404
+	},
+	{
+		"timestamp": "2022-09-08T00:00:00",
+		"openingPrice": 0.002494,
+		"high": 0.002558,
+		"low": 0.002312,
+		"closingPrice": 0.002421,
+		"volume": 32419
+	},
+	{
+		"timestamp": "2022-09-09T00:00:00",
+		"openingPrice": 0.002421,
+		"high": 0.002527,
+		"low": 0.002309,
+		"closingPrice": 0.002412,
+		"volume": 24678
+	},
+	{
+		"timestamp": "2022-09-10T00:00:00",
+		"openingPrice": 0.002412,
+		"high": 0.00242,
+		"low": 0.002295,
+		"closingPrice": 0.002362,
+		"volume": 14915
+	},
+	{
+		"timestamp": "2022-09-11T00:00:00",
+		"openingPrice": 0.002362,
+		"high": 0.002447,
+		"low": 0.002307,
+		"closingPrice": 0.002313,
+		"volume": 20631
+	},
+	{
+		"timestamp": "2022-09-12T00:00:00",
+		"openingPrice": 0.002313,
+		"high": 0.00246,
+		"low": 0.002195,
+		"closingPrice": 0.002275,
+		"volume": 31003
+	},
+	{
+		"timestamp": "2022-09-13T00:00:00",
+		"openingPrice": 0.002275,
+		"high": 0.002312,
+		"low": 0.00198,
+		"closingPrice": 0.002142,
+		"volume": 52747
+	},
+	{
+		"timestamp": "2022-09-14T00:00:00",
+		"openingPrice": 0.002144,
+		"high": 0.002223,
+		"low": 0.002119,
+		"closingPrice": 0.002212,
+		"volume": 2627
+	},
+	{
+		"timestamp": "2022-09-15T00:00:00",
+		"openingPrice": 0.002213,
+		"high": 0.002571,
+		"low": 0.002157,
+		"closingPrice": 0.002175,
+		"volume": 20612
+	},
+	{
+		"timestamp": "2022-09-16T00:00:00",
+		"openingPrice": 0.002175,
+		"high": 0.002176,
+		"low": 0.002024,
+		"closingPrice": 0.002127,
+		"volume": 14589
+	},
+	{
+		"timestamp": "2022-09-17T00:00:00",
+		"openingPrice": 0.002127,
+		"high": 0.002202,
+		"low": 0.002093,
+		"closingPrice": 0.002186,
+		"volume": 4018
+	},
+	{
+		"timestamp": "2022-09-18T00:00:00",
+		"openingPrice": 0.002187,
+		"high": 0.002211,
+		"low": 0.00179,
+		"closingPrice": 0.001981,
+		"volume": 55667
+	},
+	{
+		"timestamp": "2022-09-19T00:00:00",
+		"openingPrice": 0.001982,
+		"high": 0.002151,
+		"low": 0.001917,
+		"closingPrice": 0.002048,
+		"volume": 15348
+	},
+	{
+		"timestamp": "2022-09-20T00:00:00",
+		"openingPrice": 0.002047,
+		"high": 0.002048,
+		"low": 0.00197,
+		"closingPrice": 0.001987,
+		"volume": 3446
+	},
+	{
+		"timestamp": "2022-09-21T00:00:00",
+		"openingPrice": 0.001988,
+		"high": 0.002076,
+		"low": 0.001881,
+		"closingPrice": 0.001907,
+		"volume": 9808
+	},
+	{
+		"timestamp": "2022-09-22T00:00:00",
+		"openingPrice": 0.001907,
+		"high": 0.002054,
+		"low": 0.001902,
+		"closingPrice": 0.002045,
+		"volume": 3332
+	},
+	{
+		"timestamp": "2022-09-23T00:00:00",
+		"openingPrice": 0.002045,
+		"high": 0.002073,
+		"low": 0.00195,
+		"closingPrice": 0.00197,
+		"volume": 7271
+	},
+	{
+		"timestamp": "2022-09-24T00:00:00",
+		"openingPrice": 0.00197,
+		"high": 0.002029,
+		"low": 0.001873,
+		"closingPrice": 0.001919,
+		"volume": 12989
+	},
+	{
+		"timestamp": "2022-09-25T00:00:00",
+		"openingPrice": 0.001918,
+		"high": 0.002244,
+		"low": 0.001893,
+		"closingPrice": 0.002097,
+		"volume": 36131
+	},
+	{
+		"timestamp": "2022-09-26T00:00:00",
+		"openingPrice": 0.002097,
+		"high": 0.002147,
+		"low": 0.00205,
+		"closingPrice": 0.002101,
+		"volume": 4265
+	},
+	{
+		"timestamp": "2022-09-27T00:00:00",
+		"openingPrice": 0.002101,
+		"high": 0.002166,
+		"low": 0.001818,
+		"closingPrice": 0.001856,
+		"volume": 16516
+	},
+	{
+		"timestamp": "2022-09-28T00:00:00",
+		"openingPrice": 0.001856,
+		"high": 0.001861,
+		"low": 0.001661,
+		"closingPrice": 0.001743,
+		"volume": 16129
+	},
+	{
+		"timestamp": "2022-09-29T00:00:00",
+		"openingPrice": 0.001747,
+		"high": 0.001883,
+		"low": 0.001697,
+		"closingPrice": 0.001882,
+		"volume": 7061
+	},
+	{
+		"timestamp": "2022-09-30T00:00:00",
+		"openingPrice": 0.001882,
+		"high": 0.00193,
+		"low": 0.001851,
+		"closingPrice": 0.00187,
+		"volume": 4068
+	},
+	{
+		"timestamp": "2022-10-01T00:00:00",
+		"openingPrice": 0.00187,
+		"high": 0.001985,
+		"low": 0.001835,
+		"closingPrice": 0.001977,
+		"volume": 15353
+	},
+	{
+		"timestamp": "2022-10-02T00:00:00",
+		"openingPrice": 0.001978,
+		"high": 0.001978,
+		"low": 0.001797,
+		"closingPrice": 0.001802,
+		"volume": 9402
+	},
+	{
+		"timestamp": "2022-10-03T00:00:00",
+		"openingPrice": 0.001802,
+		"high": 0.001908,
+		"low": 0.001786,
+		"closingPrice": 0.001869,
+		"volume": 11247
+	},
+	{
+		"timestamp": "2022-10-04T00:00:00",
+		"openingPrice": 0.001869,
+		"high": 0.00194,
+		"low": 0.001865,
+		"closingPrice": 0.001922,
+		"volume": 3593
+	},
+	{
+		"timestamp": "2022-10-05T00:00:00",
+		"openingPrice": 0.001921,
+		"high": 0.001924,
+		"low": 0.00174,
+		"closingPrice": 0.00176,
+		"volume": 17699
+	},
+	{
+		"timestamp": "2022-10-06T00:00:00",
+		"openingPrice": 0.00176,
+		"high": 0.001783,
+		"low": 0.001677,
+		"closingPrice": 0.00171,
+		"volume": 14384
+	},
+	{
+		"timestamp": "2022-10-07T00:00:00",
+		"openingPrice": 0.00171,
+		"high": 0.001785,
+		"low": 0.001637,
+		"closingPrice": 0.001746,
+		"volume": 12444
+	},
+	{
+		"timestamp": "2022-10-08T00:00:00",
+		"openingPrice": 0.001746,
+		"high": 0.001761,
+		"low": 0.00168,
+		"closingPrice": 0.001717,
+		"volume": 32763
+	},
+	{
+		"timestamp": "2022-10-09T00:00:00",
+		"openingPrice": 0.001717,
+		"high": 0.001759,
+		"low": 0.001613,
+		"closingPrice": 0.001618,
+		"volume": 6242
+	},
+	{
+		"timestamp": "2022-10-10T00:00:00",
+		"openingPrice": 0.001618,
+		"high": 0.001677,
+		"low": 0.001551,
+		"closingPrice": 0.001566,
+		"volume": 7672
+	},
+	{
+		"timestamp": "2022-10-11T00:00:00",
+		"openingPrice": 0.001566,
+		"high": 0.00172,
+		"low": 0.001429,
+		"closingPrice": 0.001609,
+		"volume": 45907
+	},
+	{
+		"timestamp": "2022-10-12T00:00:00",
+		"openingPrice": 0.001609,
+		"high": 0.001686,
+		"low": 0.001379,
+		"closingPrice": 0.001607,
+		"volume": 60847
+	},
+	{
+		"timestamp": "2022-10-13T00:00:00",
+		"openingPrice": 0.001607,
+		"high": 0.001608,
+		"low": 0.00107,
+		"closingPrice": 0.001162,
+		"volume": 127069
+	},
+	{
+		"timestamp": "2022-10-14T00:00:00",
+		"openingPrice": 0.001162,
+		"high": 0.001289,
+		"low": 0.001043,
+		"closingPrice": 0.001128,
+		"volume": 90547
+	},
+	{
+		"timestamp": "2022-10-15T00:00:00",
+		"openingPrice": 0.001128,
+		"high": 0.00126,
+		"low": 0.001128,
+		"closingPrice": 0.001181,
+		"volume": 10960
+	},
+	{
+		"timestamp": "2022-10-16T00:00:00",
+		"openingPrice": 0.001181,
+		"high": 0.00124,
+		"low": 0.001118,
+		"closingPrice": 0.001149,
+		"volume": 23620
+	},
+	{
+		"timestamp": "2022-10-17T00:00:00",
+		"openingPrice": 0.001149,
+		"high": 0.001169,
+		"low": 0.001123,
+		"closingPrice": 0.001144,
+		"volume": 5551
+	},
+	{
+		"timestamp": "2022-10-18T00:00:00",
+		"openingPrice": 0.001144,
+		"high": 0.001168,
+		"low": 0.000998,
+		"closingPrice": 0.001034,
+		"volume": 15181
+	},
+	{
+		"timestamp": "2022-10-19T00:00:00",
+		"openingPrice": 0.001034,
+		"high": 0.001068,
+		"low": 0.0009761,
+		"closingPrice": 0.00098,
+		"volume": 18713
+	},
+	{
+		"timestamp": "2022-10-20T00:00:00",
+		"openingPrice": 0.00098,
+		"high": 0.001037,
+		"low": 0.0009633,
+		"closingPrice": 0.0009639,
+		"volume": 9348
+	},
+	{
+		"timestamp": "2022-10-21T00:00:00",
+		"openingPrice": 0.0009639,
+		"high": 0.0009763,
+		"low": 0.0009486,
+		"closingPrice": 0.0009717,
+		"volume": 2969
+	},
+	{
+		"timestamp": "2022-10-22T00:00:00",
+		"openingPrice": 0.0009716,
+		"high": 0.001033,
+		"low": 0.0009645,
+		"closingPrice": 0.001011,
+		"volume": 9662
+	},
+	{
+		"timestamp": "2022-10-23T00:00:00",
+		"openingPrice": 0.001011,
+		"high": 0.001075,
+		"low": 0.0009518,
+		"closingPrice": 0.001074,
+		"volume": 4350
+	},
+	{
+		"timestamp": "2022-10-24T00:00:00",
+		"openingPrice": 0.001075,
+		"high": 0.001079,
+		"low": 0.001013,
+		"closingPrice": 0.001026,
+		"volume": 1730
+	},
+	{
+		"timestamp": "2022-10-25T00:00:00",
+		"openingPrice": 0.001026,
+		"high": 0.001048,
+		"low": 0.000925,
+		"closingPrice": 0.000944,
+		"volume": 55634
+	},
+	{
+		"timestamp": "2022-10-26T00:00:00",
+		"openingPrice": 0.0009436,
+		"high": 0.0009975,
+		"low": 0.0009199,
+		"closingPrice": 0.0009748,
+		"volume": 12088
+	},
+	{
+		"timestamp": "2022-10-27T00:00:00",
+		"openingPrice": 0.0009748,
+		"high": 0.0009892,
+		"low": 0.0009486,
+		"closingPrice": 0.0009651,
+		"volume": 2400
+	},
+	{
+		"timestamp": "2022-10-28T00:00:00",
+		"openingPrice": 0.0009651,
+		"high": 0.0009902,
+		"low": 0.0008528,
+		"closingPrice": 0.0008565,
+		"volume": 31028
+	},
+	{
+		"timestamp": "2022-10-29T00:00:00",
+		"openingPrice": 0.0008565,
+		"high": 0.0008712,
+		"low": 0.0006692,
+		"closingPrice": 0.0006696,
+		"volume": 137697
+	},
+	{
+		"timestamp": "2022-10-30T00:00:00",
+		"openingPrice": 0.0006696,
+		"high": 0.000726,
+		"low": 0.000663,
+		"closingPrice": 0.0007094,
+		"volume": 9664
+	},
+	{
+		"timestamp": "2022-10-31T00:00:00",
+		"openingPrice": 0.0007094,
+		"high": 0.0007346,
+		"low": 0.0006967,
+		"closingPrice": 0.0007061,
+		"volume": 4703
+	},
+	{
+		"timestamp": "2022-11-01T00:00:00",
+		"openingPrice": 0.0007061,
+		"high": 0.0007123,
+		"low": 0.0006887,
+		"closingPrice": 0.0006888,
+		"volume": 1979
+	},
+	{
+		"timestamp": "2022-11-02T00:00:00",
+		"openingPrice": 0.0006888,
+		"high": 0.001494,
+		"low": 0.0006605,
+		"closingPrice": 0.001472,
+		"volume": 208587
+	},
+	{
+		"timestamp": "2022-11-03T00:00:00",
+		"openingPrice": 0.001472,
+		"high": 0.00158,
+		"low": 0.0009611,
+		"closingPrice": 0.001064,
+		"volume": 192513
+	},
+	{
+		"timestamp": "2022-11-04T00:00:00",
+		"openingPrice": 0.001064,
+		"high": 0.001198,
+		"low": 0.001064,
+		"closingPrice": 0.001075,
+		"volume": 22501
+	},
+	{
+		"timestamp": "2022-11-05T00:00:00",
+		"openingPrice": 0.001075,
+		"high": 0.001166,
+		"low": 0.0009466,
+		"closingPrice": 0.001013,
+		"volume": 33647
+	},
+	{
+		"timestamp": "2022-11-06T00:00:00",
+		"openingPrice": 0.001013,
+		"high": 0.00111,
+		"low": 0.0009764,
+		"closingPrice": 0.001002,
+		"volume": 12258
+	},
+	{
+		"timestamp": "2022-11-07T00:00:00",
+		"openingPrice": 0.001002,
+		"high": 0.001174,
+		"low": 0.0009988,
+		"closingPrice": 0.001174,
+		"volume": 21470
+	},
+	{
+		"timestamp": "2022-11-08T00:00:00",
+		"openingPrice": 0.001174,
+		"high": 0.001208,
+		"low": 0.0008622,
+		"closingPrice": 0.000882,
+		"volume": 73782
+	},
+	{
+		"timestamp": "2022-11-09T00:00:00",
+		"openingPrice": 0.0008799,
+		"high": 0.0008961,
+		"low": 0.0007395,
+		"closingPrice": 0.0007613,
+		"volume": 32614
+	},
+	{
+		"timestamp": "2022-11-10T00:00:00",
+		"openingPrice": 0.0007618,
+		"high": 0.0009034,
+		"low": 0.0007551,
+		"closingPrice": 0.0007976,
+		"volume": 42510
+	},
+	{
+		"timestamp": "2022-11-11T00:00:00",
+		"openingPrice": 0.0007968,
+		"high": 0.0008144,
+		"low": 0.0007174,
+		"closingPrice": 0.0008125,
+		"volume": 14192
+	},
+	{
+		"timestamp": "2022-11-12T00:00:00",
+		"openingPrice": 0.0008132,
+		"high": 0.0008132,
+		"low": 0.0007204,
+		"closingPrice": 0.0007643,
+		"volume": 5449
+	},
+	{
+		"timestamp": "2022-11-13T00:00:00",
+		"openingPrice": 0.0007636,
+		"high": 0.0007863,
+		"low": 0.0007162,
+		"closingPrice": 0.0007335,
+		"volume": 3644
+	},
+	{
+		"timestamp": "2022-11-14T00:00:00",
+		"openingPrice": 0.000733,
+		"high": 0.000787,
+		"low": 0.0007038,
+		"closingPrice": 0.0007659,
+		"volume": 7088
+	},
+	{
+		"timestamp": "2022-11-15T00:00:00",
+		"openingPrice": 0.0007653,
+		"high": 0.0008381,
+		"low": 0.0007597,
+		"closingPrice": 0.0008065,
+		"volume": 3891
+	},
+	{
+		"timestamp": "2022-11-16T00:00:00",
+		"openingPrice": 0.0008069,
+		"high": 0.0008193,
+		"low": 0.0007513,
+		"closingPrice": 0.0007852,
+		"volume": 6656
+	},
+	{
+		"timestamp": "2022-11-17T00:00:00",
+		"openingPrice": 0.0007852,
+		"high": 0.0008014,
+		"low": 0.0007492,
+		"closingPrice": 0.0007535,
+		"volume": 10039
+	},
+	{
+		"timestamp": "2022-11-18T00:00:00",
+		"openingPrice": 0.0007534,
+		"high": 0.0008227,
+		"low": 0.0007524,
+		"closingPrice": 0.0008042,
+		"volume": 13544
+	},
+	{
+		"timestamp": "2022-11-19T00:00:00",
+		"openingPrice": 0.000804,
+		"high": 0.0008323,
+		"low": 0.0007951,
+		"closingPrice": 0.000827,
+		"volume": 4933
+	},
+	{
+		"timestamp": "2022-11-20T00:00:00",
+		"openingPrice": 0.000827,
+		"high": 0.0008417,
+		"low": 0.0007834,
+		"closingPrice": 0.0007926,
+		"volume": 9550
+	},
+	{
+		"timestamp": "2022-11-21T00:00:00",
+		"openingPrice": 0.000776,
+		"high": 0.0007987,
+		"low": 0.0007484,
+		"closingPrice": 0.0007767,
+		"volume": 11787
+	},
+	{
+		"timestamp": "2022-11-22T00:00:00",
+		"openingPrice": 0.0007771,
+		"high": 0.0008028,
+		"low": 0.0007582,
+		"closingPrice": 0.0007894,
+		"volume": 11185
+	},
+	{
+		"timestamp": "2022-11-23T00:00:00",
+		"openingPrice": 0.0007894,
+		"high": 0.0009127,
+		"low": 0.0007786,
+		"closingPrice": 0.0008806,
+		"volume": 21347
+	},
+	{
+		"timestamp": "2022-11-24T00:00:00",
+		"openingPrice": 0.0008804,
+		"high": 0.0009117,
+		"low": 0.0008243,
+		"closingPrice": 0.0008253,
+		"volume": 4512
+	},
+	{
+		"timestamp": "2022-11-25T00:00:00",
+		"openingPrice": 0.0008253,
+		"high": 0.000828,
+		"low": 0.0007747,
+		"closingPrice": 0.0008111,
+		"volume": 15494
+	},
+	{
+		"timestamp": "2022-11-26T00:00:00",
+		"openingPrice": 0.0008105,
+		"high": 0.0008424,
+		"low": 0.00081,
+		"closingPrice": 0.0008269,
+		"volume": 18838
+	},
+	{
+		"timestamp": "2022-11-27T00:00:00",
+		"openingPrice": 0.0008268,
+		"high": 0.0008761,
+		"low": 0.0007604,
+		"closingPrice": 0.000765,
+		"volume": 26801
+	},
+	{
+		"timestamp": "2022-11-28T00:00:00",
+		"openingPrice": 0.000765,
+		"high": 0.0008235,
+		"low": 0.0007393,
+		"closingPrice": 0.0008044,
+		"volume": 7837
+	},
+	{
+		"timestamp": "2022-11-29T00:00:00",
+		"openingPrice": 0.0008045,
+		"high": 0.0008744,
+		"low": 0.0007907,
+		"closingPrice": 0.0008731,
+		"volume": 28376
+	},
+	{
+		"timestamp": "2022-11-30T00:00:00",
+		"openingPrice": 0.0008731,
+		"high": 0.0008982,
+		"low": 0.0008343,
+		"closingPrice": 0.0008681,
+		"volume": 28869
+	},
+	{
+		"timestamp": "2022-12-01T00:00:00",
+		"openingPrice": 0.0008681,
+		"high": 0.0008726,
+		"low": 0.0008025,
+		"closingPrice": 0.000806,
+		"volume": 17249
+	},
+	{
+		"timestamp": "2022-12-02T00:00:00",
+		"openingPrice": 0.0008066,
+		"high": 0.0008253,
+		"low": 0.0007723,
+		"closingPrice": 0.0008223,
+		"volume": 9129
+	},
+	{
+		"timestamp": "2022-12-03T00:00:00",
+		"openingPrice": 0.000823,
+		"high": 0.0008233,
+		"low": 0.0007799,
+		"closingPrice": 0.0007818,
+		"volume": 2094
+	},
+	{
+		"timestamp": "2022-12-04T00:00:00",
+		"openingPrice": 0.0007818,
+		"high": 0.000788,
+		"low": 0.0007646,
+		"closingPrice": 0.0007854,
+		"volume": 6584
+	},
+	{
+		"timestamp": "2022-12-05T00:00:00",
+		"openingPrice": 0.0007856,
+		"high": 0.0008004,
+		"low": 0.0007706,
+		"closingPrice": 0.0007799,
+		"volume": 1885
+	},
+	{
+		"timestamp": "2022-12-06T00:00:00",
+		"openingPrice": 0.0007799,
+		"high": 0.0008251,
+		"low": 0.0007704,
+		"closingPrice": 0.0008248,
+		"volume": 9570
+	},
+	{
+		"timestamp": "2022-12-07T00:00:00",
+		"openingPrice": 0.0008247,
+		"high": 0.0008259,
+		"low": 0.0007785,
+		"closingPrice": 0.0008065,
+		"volume": 3783
+	},
+	{
+		"timestamp": "2022-12-08T00:00:00",
+		"openingPrice": 0.0008065,
+		"high": 0.0008376,
+		"low": 0.0007916,
+		"closingPrice": 0.0008209,
+		"volume": 5997
+	},
+	{
+		"timestamp": "2022-12-09T00:00:00",
+		"openingPrice": 0.0008209,
+		"high": 0.0008229,
+		"low": 0.0007792,
+		"closingPrice": 0.0007897,
+		"volume": 10841
+	},
+	{
+		"timestamp": "2022-12-10T00:00:00",
+		"openingPrice": 0.0007897,
+		"high": 0.0008092,
+		"low": 0.0007214,
+		"closingPrice": 0.0007675,
+		"volume": 27675
+	},
+	{
+		"timestamp": "2022-12-11T00:00:00",
+		"openingPrice": 0.0007681,
+		"high": 0.0007881,
+		"low": 0.0007491,
+		"closingPrice": 0.0007611,
+		"volume": 7910
+	},
+	{
+		"timestamp": "2022-12-12T00:00:00",
+		"openingPrice": 0.0007611,
+		"high": 0.0007722,
+		"low": 0.0007291,
+		"closingPrice": 0.0007715,
+		"volume": 7824
+	},
+	{
+		"timestamp": "2022-12-13T00:00:00",
+		"openingPrice": 0.0007715,
+		"high": 0.000804,
+		"low": 0.000751,
+		"closingPrice": 0.000792,
+		"volume": 2685
+	},
+	{
+		"timestamp": "2022-12-14T00:00:00",
+		"openingPrice": 0.0007926,
+		"high": 0.0008071,
+		"low": 0.0007739,
+		"closingPrice": 0.0007792,
+		"volume": 4820
+	},
+	{
+		"timestamp": "2022-12-15T00:00:00",
+		"openingPrice": 0.0007791,
+		"high": 0.0007967,
+		"low": 0.0007644,
+		"closingPrice": 0.0007726,
+		"volume": 5327
+	},
+	{
+		"timestamp": "2022-12-16T00:00:00",
+		"openingPrice": 0.0007727,
+		"high": 0.000788,
+		"low": 0.000701,
+		"closingPrice": 0.0007134,
+		"volume": 5548
+	},
+	{
+		"timestamp": "2022-12-17T00:00:00",
+		"openingPrice": 0.0007134,
+		"high": 0.0007387,
+		"low": 0.0006759,
+		"closingPrice": 0.0007041,
+		"volume": 9583
+	},
+	{
+		"timestamp": "2022-12-18T00:00:00",
+		"openingPrice": 0.0007044,
+		"high": 0.0008027,
+		"low": 0.000683,
+		"closingPrice": 0.0007856,
+		"volume": 16922
+	},
+	{
+		"timestamp": "2022-12-19T00:00:00",
+		"openingPrice": 0.0007856,
+		"high": 0.0007937,
+		"low": 0.0007363,
+		"closingPrice": 0.0007545,
+		"volume": 3963
+	},
+	{
+		"timestamp": "2022-12-20T00:00:00",
+		"openingPrice": 0.0007545,
+		"high": 0.0007871,
+		"low": 0.0007505,
+		"closingPrice": 0.0007679,
+		"volume": 2971
+	},
+	{
+		"timestamp": "2022-12-21T00:00:00",
+		"openingPrice": 0.0007669,
+		"high": 0.0007823,
+		"low": 0.0007519,
+		"closingPrice": 0.0007605,
+		"volume": 5645
+	},
+	{
+		"timestamp": "2022-12-22T00:00:00",
+		"openingPrice": 0.0007608,
+		"high": 0.0007818,
+		"low": 0.0007486,
+		"closingPrice": 0.0007667,
+		"volume": 1793
+	},
+	{
+		"timestamp": "2022-12-23T00:00:00",
+		"openingPrice": 0.0007668,
+		"high": 0.0007762,
+		"low": 0.0007581,
+		"closingPrice": 0.0007603,
+		"volume": 1521
+	},
+	{
+		"timestamp": "2022-12-24T00:00:00",
+		"openingPrice": 0.0007602,
+		"high": 0.0008744,
+		"low": 0.000759,
+		"closingPrice": 0.0008201,
+		"volume": 15618
+	},
+	{
+		"timestamp": "2022-12-25T00:00:00",
+		"openingPrice": 0.0008201,
+		"high": 0.0008232,
+		"low": 0.0008064,
+		"closingPrice": 0.0008201,
+		"volume": 1467
+	},
+	{
+		"timestamp": "2022-12-26T00:00:00",
+		"openingPrice": 0.00082,
+		"high": 0.0008417,
+		"low": 0.0008194,
+		"closingPrice": 0.0008397,
+		"volume": 786
+	},
+	{
+		"timestamp": "2022-12-27T00:00:00",
+		"openingPrice": 0.0008401,
+		"high": 0.0008696,
+		"low": 0.0008305,
+		"closingPrice": 0.0008586,
+		"volume": 6823
+	},
+	{
+		"timestamp": "2022-12-28T00:00:00",
+		"openingPrice": 0.0008586,
+		"high": 0.000913,
+		"low": 0.0008497,
+		"closingPrice": 0.0008988,
+		"volume": 11649
+	},
+	{
+		"timestamp": "2022-12-29T00:00:00",
+		"openingPrice": 0.0008988,
+		"high": 0.0009387,
+		"low": 0.0008598,
+		"closingPrice": 0.0009094,
+		"volume": 18867
+	},
+	{
+		"timestamp": "2022-12-30T00:00:00",
+		"openingPrice": 0.0009094,
+		"high": 0.0009585,
+		"low": 0.0008889,
+		"closingPrice": 0.0009569,
+		"volume": 11081
+	},
+	{
+		"timestamp": "2022-12-31T00:00:00",
+		"openingPrice": 0.0009538,
+		"high": 0.0009545,
+		"low": 0.0008475,
+		"closingPrice": 0.0008553,
+		"volume": 12740
+	},
+	{
+		"timestamp": "2023-01-01T00:00:00",
+		"openingPrice": 0.0008553,
+		"high": 0.0009082,
+		"low": 0.0008526,
+		"closingPrice": 0.0008991,
+		"volume": 3989
+	},
+	{
+		"timestamp": "2023-01-02T00:00:00",
+		"openingPrice": 0.0008991,
+		"high": 0.0009128,
+		"low": 0.0008504,
+		"closingPrice": 0.0008777,
+		"volume": 17886
+	},
+	{
+		"timestamp": "2023-01-03T00:00:00",
+		"openingPrice": 0.0008782,
+		"high": 0.0009383,
+		"low": 0.0008683,
+		"closingPrice": 0.000938,
+		"volume": 11920
+	},
+	{
+		"timestamp": "2023-01-04T00:00:00",
+		"openingPrice": 0.000938,
+		"high": 0.0009677,
+		"low": 0.0008862,
+		"closingPrice": 0.0009055,
+		"volume": 14445
+	},
+	{
+		"timestamp": "2023-01-05T00:00:00",
+		"openingPrice": 0.0009059,
+		"high": 0.0009324,
+		"low": 0.0008772,
+		"closingPrice": 0.0008795,
+		"volume": 7273
+	},
+	{
+		"timestamp": "2023-01-06T00:00:00",
+		"openingPrice": 0.0008798,
+		"high": 0.0009393,
+		"low": 0.0008698,
+		"closingPrice": 0.000934,
+		"volume": 5040
+	},
+	{
+		"timestamp": "2023-01-07T00:00:00",
+		"openingPrice": 0.0009343,
+		"high": 0.0009841,
+		"low": 0.000914,
+		"closingPrice": 0.0009492,
+		"volume": 6668
+	},
+	{
+		"timestamp": "2023-01-08T00:00:00",
+		"openingPrice": 0.0009469,
+		"high": 0.0009582,
+		"low": 0.0009258,
+		"closingPrice": 0.0009479,
+		"volume": 10072
+	},
+	{
+		"timestamp": "2023-01-09T00:00:00",
+		"openingPrice": 0.000946,
+		"high": 0.001014,
+		"low": 0.0009098,
+		"closingPrice": 0.0009259,
+		"volume": 17585
+	},
+	{
+		"timestamp": "2023-01-10T00:00:00",
+		"openingPrice": 0.0009255,
+		"high": 0.0009625,
+		"low": 0.0009162,
+		"closingPrice": 0.0009389,
+		"volume": 6250
+	},
+	{
+		"timestamp": "2023-01-11T00:00:00",
+		"openingPrice": 0.0009389,
+		"high": 0.0009626,
+		"low": 0.0009191,
+		"closingPrice": 0.000952,
+		"volume": 2469
+	},
+	{
+		"timestamp": "2023-01-12T00:00:00",
+		"openingPrice": 0.000952,
+		"high": 0.0009662,
+		"low": 0.0009177,
+		"closingPrice": 0.0009332,
+		"volume": 17675
+	},
+	{
+		"timestamp": "2023-01-13T00:00:00",
+		"openingPrice": 0.0009324,
+		"high": 0.0009701,
+		"low": 0.0009203,
+		"closingPrice": 0.0009546,
+		"volume": 4639
+	},
+	{
+		"timestamp": "2023-01-14T00:00:00",
+		"openingPrice": 0.0009545,
+		"high": 0.001044,
+		"low": 0.0009493,
+		"closingPrice": 0.0009712,
+		"volume": 16920
+	},
+	{
+		"timestamp": "2023-01-15T00:00:00",
+		"openingPrice": 0.0009711,
+		"high": 0.0009995,
+		"low": 0.0009393,
+		"closingPrice": 0.0009834,
+		"volume": 3364
+	},
+	{
+		"timestamp": "2023-01-16T00:00:00",
+		"openingPrice": 0.0009827,
+		"high": 0.001154,
+		"low": 0.0009786,
+		"closingPrice": 0.00108,
+		"volume": 41598
+	},
+	{
+		"timestamp": "2023-01-17T00:00:00",
+		"openingPrice": 0.00108,
+		"high": 0.001096,
+		"low": 0.001046,
+		"closingPrice": 0.001047,
+		"volume": 4945
+	},
+	{
+		"timestamp": "2023-01-18T00:00:00",
+		"openingPrice": 0.001046,
+		"high": 0.001087,
+		"low": 0.0009093,
+		"closingPrice": 0.0009149,
+		"volume": 36372
+	},
+	{
+		"timestamp": "2023-01-19T00:00:00",
+		"openingPrice": 0.0009149,
+		"high": 0.0009557,
+		"low": 0.0009004,
+		"closingPrice": 0.0009546,
+		"volume": 6424
+	},
+	{
+		"timestamp": "2023-01-20T00:00:00",
+		"openingPrice": 0.0009549,
+		"high": 0.001009,
+		"low": 0.0009345,
+		"closingPrice": 0.001008,
+		"volume": 6469
+	},
+	{
+		"timestamp": "2023-01-21T00:00:00",
+		"openingPrice": 0.001008,
+		"high": 0.001018,
+		"low": 0.0009591,
+		"closingPrice": 0.001003,
+		"volume": 8113
+	},
+	{
+		"timestamp": "2023-01-22T00:00:00",
+		"openingPrice": 0.001003,
+		"high": 0.001042,
+		"low": 0.0009635,
+		"closingPrice": 0.00098,
+		"volume": 7549
+	},
+	{
+		"timestamp": "2023-01-23T00:00:00",
+		"openingPrice": 0.0009805,
+		"high": 0.001,
+		"low": 0.0009557,
+		"closingPrice": 0.000996,
+		"volume": 4570
+	},
+	{
+		"timestamp": "2023-01-24T00:00:00",
+		"openingPrice": 0.0009952,
+		"high": 0.001046,
+		"low": 0.0009769,
+		"closingPrice": 0.0009938,
+		"volume": 12103
+	},
+	{
+		"timestamp": "2023-01-25T00:00:00",
+		"openingPrice": 0.0009943,
+		"high": 0.001098,
+		"low": 0.0009742,
+		"closingPrice": 0.001086,
+		"volume": 16864
+	},
+	{
+		"timestamp": "2023-01-26T00:00:00",
+		"openingPrice": 0.001087,
+		"high": 0.001164,
+		"low": 0.00105,
+		"closingPrice": 0.001097,
+		"volume": 15630
+	},
+	{
+		"timestamp": "2023-01-27T00:00:00",
+		"openingPrice": 0.001095,
+		"high": 0.001137,
+		"low": 0.00104,
+		"closingPrice": 0.001111,
+		"volume": 8125
+	},
+	{
+		"timestamp": "2023-01-28T00:00:00",
+		"openingPrice": 0.001111,
+		"high": 0.001124,
+		"low": 0.001055,
+		"closingPrice": 0.001088,
+		"volume": 4322
+	},
+	{
+		"timestamp": "2023-01-29T00:00:00",
+		"openingPrice": 0.001088,
+		"high": 0.001137,
+		"low": 0.001076,
+		"closingPrice": 0.001109,
+		"volume": 4270
+	},
+	{
+		"timestamp": "2023-01-30T00:00:00",
+		"openingPrice": 0.001108,
+		"high": 0.001133,
+		"low": 0.001055,
+		"closingPrice": 0.001073,
+		"volume": 13602
+	},
+	{
+		"timestamp": "2023-01-31T00:00:00",
+		"openingPrice": 0.001072,
+		"high": 0.00113,
+		"low": 0.00106,
+		"closingPrice": 0.00112,
+		"volume": 6208
+	},
+	{
+		"timestamp": "2023-02-01T00:00:00",
+		"openingPrice": 0.001119,
+		"high": 0.001202,
+		"low": 0.001093,
+		"closingPrice": 0.001191,
+		"volume": 6747
+	},
+	{
+		"timestamp": "2023-02-02T00:00:00",
+		"openingPrice": 0.001189,
+		"high": 0.001223,
+		"low": 0.001143,
+		"closingPrice": 0.001146,
+		"volume": 11302
+	},
+	{
+		"timestamp": "2023-02-03T00:00:00",
+		"openingPrice": 0.001146,
+		"high": 0.0012,
+		"low": 0.001137,
+		"closingPrice": 0.001181,
+		"volume": 4471
+	},
+	{
+		"timestamp": "2023-02-04T00:00:00",
+		"openingPrice": 0.001182,
+		"high": 0.001202,
+		"low": 0.001127,
+		"closingPrice": 0.001174,
+		"volume": 8369
+	},
+	{
+		"timestamp": "2023-02-05T00:00:00",
+		"openingPrice": 0.001175,
+		"high": 0.001181,
+		"low": 0.001115,
+		"closingPrice": 0.001129,
+		"volume": 9517
+	},
+	{
+		"timestamp": "2023-02-06T00:00:00",
+		"openingPrice": 0.001128,
+		"high": 0.001152,
+		"low": 0.001088,
+		"closingPrice": 0.001093,
+		"volume": 10492
+	},
+	{
+		"timestamp": "2023-02-07T00:00:00",
+		"openingPrice": 0.001092,
+		"high": 0.001152,
+		"low": 0.001092,
+		"closingPrice": 0.001142,
+		"volume": 11158
+	},
+	{
+		"timestamp": "2023-02-08T00:00:00",
+		"openingPrice": 0.001143,
+		"high": 0.001173,
+		"low": 0.001095,
+		"closingPrice": 0.001164,
+		"volume": 14301
+	},
+	{
+		"timestamp": "2023-02-09T00:00:00",
+		"openingPrice": 0.001164,
+		"high": 0.001198,
+		"low": 0.001106,
+		"closingPrice": 0.001132,
+		"volume": 9108
+	},
+	{
+		"timestamp": "2023-02-10T00:00:00",
+		"openingPrice": 0.001132,
+		"high": 0.001218,
+		"low": 0.001126,
+		"closingPrice": 0.001144,
+		"volume": 7703
+	},
+	{
+		"timestamp": "2023-02-11T00:00:00",
+		"openingPrice": 0.001144,
+		"high": 0.00118,
+		"low": 0.001131,
+		"closingPrice": 0.001169,
+		"volume": 3189
+	},
+	{
+		"timestamp": "2023-02-12T00:00:00",
+		"openingPrice": 0.001168,
+		"high": 0.001216,
+		"low": 0.001157,
+		"closingPrice": 0.001176,
+		"volume": 7097
+	},
+	{
+		"timestamp": "2023-02-13T00:00:00",
+		"openingPrice": 0.001175,
+		"high": 0.001198,
+		"low": 0.001146,
+		"closingPrice": 0.001197,
+		"volume": 17864
+	},
+	{
+		"timestamp": "2023-02-14T00:00:00",
+		"openingPrice": 0.001196,
+		"high": 0.001243,
+		"low": 0.001143,
+		"closingPrice": 0.001243,
+		"volume": 6889
+	},
+	{
+		"timestamp": "2023-02-15T00:00:00",
+		"openingPrice": 0.001241,
+		"high": 0.001286,
+		"low": 0.001208,
+		"closingPrice": 0.001285,
+		"volume": 14628
+	},
+	{
+		"timestamp": "2023-02-16T00:00:00",
+		"openingPrice": 0.001285,
+		"high": 0.001475,
+		"low": 0.001272,
+		"closingPrice": 0.001406,
+		"volume": 49752
+	},
+	{
+		"timestamp": "2023-02-17T00:00:00",
+		"openingPrice": 0.001408,
+		"high": 0.001802,
+		"low": 0.001404,
+		"closingPrice": 0.001781,
+		"volume": 72050
+	},
+	{
+		"timestamp": "2023-02-18T00:00:00",
+		"openingPrice": 0.001784,
+		"high": 0.001828,
+		"low": 0.001462,
+		"closingPrice": 0.001514,
+		"volume": 54707
+	},
+	{
+		"timestamp": "2023-02-19T00:00:00",
+		"openingPrice": 0.001514,
+		"high": 0.001693,
+		"low": 0.001505,
+		"closingPrice": 0.001585,
+		"volume": 24612
+	},
+	{
+		"timestamp": "2023-02-20T00:00:00",
+		"openingPrice": 0.00159,
+		"high": 0.001617,
+		"low": 0.001547,
+		"closingPrice": 0.001578,
+		"volume": 6141
+	},
+	{
+		"timestamp": "2023-02-21T00:00:00",
+		"openingPrice": 0.001579,
+		"high": 0.001598,
+		"low": 0.001472,
+		"closingPrice": 0.001498,
+		"volume": 8227
+	},
+	{
+		"timestamp": "2023-02-22T00:00:00",
+		"openingPrice": 0.001497,
+		"high": 0.00151,
+		"low": 0.001407,
+		"closingPrice": 0.001508,
+		"volume": 4335
+	},
+	{
+		"timestamp": "2023-02-23T00:00:00",
+		"openingPrice": 0.001507,
+		"high": 0.001533,
+		"low": 0.001459,
+		"closingPrice": 0.00147,
+		"volume": 3964
+	},
+	{
+		"timestamp": "2023-02-24T00:00:00",
+		"openingPrice": 0.00147,
+		"high": 0.001479,
+		"low": 0.001351,
+		"closingPrice": 0.00141,
+		"volume": 12525
+	},
+	{
+		"timestamp": "2023-02-25T00:00:00",
+		"openingPrice": 0.00141,
+		"high": 0.001424,
+		"low": 0.001302,
+		"closingPrice": 0.001377,
+		"volume": 9990
+	},
+	{
+		"timestamp": "2023-02-26T00:00:00",
+		"openingPrice": 0.001377,
+		"high": 0.001444,
+		"low": 0.001365,
+		"closingPrice": 0.001428,
+		"volume": 3104
+	},
+	{
+		"timestamp": "2023-02-27T00:00:00",
+		"openingPrice": 0.001429,
+		"high": 0.001433,
+		"low": 0.001359,
+		"closingPrice": 0.001381,
+		"volume": 2606
+	},
+	{
+		"timestamp": "2023-02-28T00:00:00",
+		"openingPrice": 0.001381,
+		"high": 0.001421,
+		"low": 0.00131,
+		"closingPrice": 0.001322,
+		"volume": 18365
+	},
+	{
+		"timestamp": "2023-03-01T00:00:00",
+		"openingPrice": 0.001323,
+		"high": 0.001415,
+		"low": 0.001319,
+		"closingPrice": 0.001408,
+		"volume": 7047
+	},
+	{
+		"timestamp": "2023-03-02T00:00:00",
+		"openingPrice": 0.00141,
+		"high": 0.001413,
+		"low": 0.001344,
+		"closingPrice": 0.001382,
+		"volume": 11002
+	},
+	{
+		"timestamp": "2023-03-03T00:00:00",
+		"openingPrice": 0.001385,
+		"high": 0.001395,
+		"low": 0.00129,
+		"closingPrice": 0.001356,
+		"volume": 14893
+	},
+	{
+		"timestamp": "2023-03-04T00:00:00",
+		"openingPrice": 0.001356,
+		"high": 0.001401,
+		"low": 0.00131,
+		"closingPrice": 0.001344,
+		"volume": 53651
+	},
+	{
+		"timestamp": "2023-03-05T00:00:00",
+		"openingPrice": 0.001344,
+		"high": 0.00137,
+		"low": 0.001256,
+		"closingPrice": 0.001264,
+		"volume": 44382
+	},
+	{
+		"timestamp": "2023-03-06T00:00:00",
+		"openingPrice": 0.001264,
+		"high": 0.001268,
+		"low": 0.001207,
+		"closingPrice": 0.001239,
+		"volume": 8156
+	},
+	{
+		"timestamp": "2023-03-07T00:00:00",
+		"openingPrice": 0.00124,
+		"high": 0.00127,
+		"low": 0.001095,
+		"closingPrice": 0.001119,
+		"volume": 24555
+	},
+	{
+		"timestamp": "2023-03-08T00:00:00",
+		"openingPrice": 0.00112,
+		"high": 0.001124,
+		"low": 0.0009105,
+		"closingPrice": 0.0009463,
+		"volume": 51776
+	},
+	{
+		"timestamp": "2023-03-09T00:00:00",
+		"openingPrice": 0.0009459,
+		"high": 0.001046,
+		"low": 0.0009459,
+		"closingPrice": 0.001,
+		"volume": 13355
+	},
+	{
+		"timestamp": "2023-03-10T00:00:00",
+		"openingPrice": 0.001001,
+		"high": 0.00101,
+		"low": 0.0009047,
+		"closingPrice": 0.0009419,
+		"volume": 27333
+	},
+	{
+		"timestamp": "2023-03-11T00:00:00",
+		"openingPrice": 0.0009437,
+		"high": 0.0009913,
+		"low": 0.0009025,
+		"closingPrice": 0.0009598,
+		"volume": 10658
+	},
+	{
+		"timestamp": "2023-03-12T00:00:00",
+		"openingPrice": 0.0009583,
+		"high": 0.00103,
+		"low": 0.0009406,
+		"closingPrice": 0.00103,
+		"volume": 2408
+	},
+	{
+		"timestamp": "2023-03-13T00:00:00",
+		"openingPrice": 0.001029,
+		"high": 0.001064,
+		"low": 0.0009285,
+		"closingPrice": 0.0009397,
+		"volume": 34737
+	},
+	{
+		"timestamp": "2023-03-14T00:00:00",
+		"openingPrice": 0.0009404,
+		"high": 0.0009849,
+		"low": 0.0009039,
+		"closingPrice": 0.000956,
+		"volume": 13025
+	},
+	{
+		"timestamp": "2023-03-15T00:00:00",
+		"openingPrice": 0.0009552,
+		"high": 0.000973,
+		"low": 0.0008972,
+		"closingPrice": 0.0009117,
+		"volume": 11818
+	},
+	{
+		"timestamp": "2023-03-16T00:00:00",
+		"openingPrice": 0.0009117,
+		"high": 0.0009378,
+		"low": 0.0009054,
+		"closingPrice": 0.000932,
+		"volume": 6492
+	},
+	{
+		"timestamp": "2023-03-17T00:00:00",
+		"openingPrice": 0.0009321,
+		"high": 0.0009874,
+		"low": 0.0009222,
+		"closingPrice": 0.0009697,
+		"volume": 12301
+	},
+	{
+		"timestamp": "2023-03-18T00:00:00",
+		"openingPrice": 0.0009704,
+		"high": 0.0009863,
+		"low": 0.0009161,
+		"closingPrice": 0.000924,
+		"volume": 6328
+	},
+	{
+		"timestamp": "2023-03-19T00:00:00",
+		"openingPrice": 0.000924,
+		"high": 0.0009645,
+		"low": 0.0009193,
+		"closingPrice": 0.000923,
+		"volume": 10090
+	},
+	{
+		"timestamp": "2023-03-20T00:00:00",
+		"openingPrice": 0.0009249,
+		"high": 0.0009496,
+		"low": 0.0008889,
+		"closingPrice": 0.0009174,
+		"volume": 20380
+	},
+	{
+		"timestamp": "2023-03-21T00:00:00",
+		"openingPrice": 0.0009174,
+		"high": 0.0009619,
+		"low": 0.0009121,
+		"closingPrice": 0.0009471,
+		"volume": 8886
+	}
+]
